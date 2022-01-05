@@ -1,0 +1,234 @@
+[
+    {
+        "wid": "13759",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "你的学生类别",
+        "description": "",
+        "minLength": 0,
+        "sort": "1",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field001",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68519",
+                "content": "本科生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "68520",
+                "content": "硕士生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+            {
+                "itemWid": "68521",
+                "content": "博士生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+            {
+                "itemWid": "68522",
+                "content": "预科生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "13760",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "你的生源类别",
+        "description": "",
+        "minLength": 0,
+        "sort": "2",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field002",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68523",
+                "content": "内地学生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "68524",
+                "content": "香港学生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "68524",
+                "content": "澳门学生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "68525",
+                "content": "台湾学生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+            {
+                "itemWid": "68526",
+                "content": "外国留学生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+            {
+                "itemWid": "68527",
+                "content": "华侨学生",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "13761",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "你是否有发热（≥37.3℃）、咳嗽、乏力等症状",
+        "description": "",
+        "minLength": 0,
+        "sort": "3",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field003",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68528",
+                "content": "无",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "68529",
+                "content": "有",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "13762",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "你昨天晚上22：30，今天早上7：30、12：00的体温是否正常",
+        "description": "",
+        "minLength": 0,
+        "sort": "4",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field004",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68530",
+                "content": "正常",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "68531",
+                "content": "异常",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "13763",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "你是否认真阅读并熟知说明中学校关于在校学生发热应急处置流程",
+        "description": "",
+        "minLength": 0,
+        "sort": "5",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field005",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68532",
+                "content": "我已认真阅读并熟知",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    },
+    {
+        "wid": "13764",
+        "formWid": "1129",
+        "fieldType": 2,
+        "title": "本人承诺以上所填报的全部内容均属实、准确，不存在任何隐瞒与不实的情况，更无遗漏之处",
+        "description": "",
+        "minLength": 0,
+        "sort": "6",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field006",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "68532",
+                "content": "是",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    }
+]
